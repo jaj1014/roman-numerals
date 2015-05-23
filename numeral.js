@@ -1,6 +1,6 @@
 /*
 Use an object to store each correlation to the appropriate numerals.
-The object will be generic referenced based on the [i] so that it can reuse the same code
+The object will be genericly referenced based on the [i] counter so that it can reuse the same code
 */
 
 //Converts number to array
