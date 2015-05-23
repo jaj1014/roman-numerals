@@ -6,7 +6,7 @@ The object will be genericly referenced based on the [i] counter so that it can 
 //Converts number to array
 function toArray(number) {
   var array = [];
-  var	numberString = number.toString();
+  var numberString = number.toString();
   for(var i = 0; i < numberString.length; i++)
     array.push(parseInt(numberString.charAt(i)));
   return array;
